@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omar222os
-- 👀 I’m interested in ...
+- 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning computer engineering 
-- 📫 you can reach me by email:  omarosama22@gmail.com 
+- 📫 you can reach me by email:  omarosamahsn22@gmail.com 
 
 <!---
 omar222os/omar222os is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
